@@ -172,7 +172,7 @@
                     <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,80,0,0">
                         <TextBlock Text="Subscribe to " VerticalAlignment="Center"></TextBlock>
                         <materialDesign:PackIcon Kind="Youtube" Foreground="#DDFF1212" Width="100" Height="100"></materialDesign:PackIcon>
-                        <TextBlock Style="{StaticResource MaterialDesignDisplay1TextBlock}" Text="Caster WPF" VerticalAlignment="Center"></TextBlock>
+                        <TextBlock Style="{StaticResource MaterialDesignDisplay1TextBlock}" Text="WPF Dashboard" VerticalAlignment="Center"></TextBlock>
                     </StackPanel>
                     </materialDesign:TransitioningContent>
                 </StackPanel>
